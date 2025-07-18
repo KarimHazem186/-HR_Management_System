@@ -51,7 +51,7 @@ A comprehensive and scalable **Human Resources Management System** built for mod
 
 | Tech Stack     | Description                          |
 |----------------|--------------------------------------|
-| **Frontend**   | React.js, Axios, Tailwind CSS        |
+| **Frontend**   | React.js, Axios, Bootstrap CSS        |
 | **Backend**    | Node.js, Express.js, Mongoose (MongoDB) |
 | **Database**   | MongoDB Atlas                        |
 | **Deployment** | Vercel (Frontend), Render/Other (API) |
