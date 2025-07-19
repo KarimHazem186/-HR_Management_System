@@ -6,6 +6,10 @@ A comprehensive and scalable **Human Resources Management System** built for mod
 🔐 **Admin Login**:  
 - **Email**: `admin@gmail.com`  
 - **Password**: `admin`
+---
+👤 **Employee**:
+- **Email**: `employee@gmail.com`  
+- **Password**: `employee`
 
 ---
 
